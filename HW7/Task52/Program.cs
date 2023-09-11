@@ -27,7 +27,7 @@ void PrintMatrix(int[,] matrix)
         Console.Write("|");
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            Console.Write($"{matrix[i, j], 5}"); //форматирование вывода
+            Console.Write($"{matrix[i, j], 5}"); 
         }
         Console.WriteLine("|");
     } 
@@ -48,6 +48,6 @@ void Average(int[,] matrix)
     }
 }
 
-int[,] array2d = CreateMatrixRndInt(3, 4, 0, 10);
+int[,] array2d = CreateMatrixRndInt(3, 4, 0, 9);
 PrintMatrix(array2d);
 Average(array2d);

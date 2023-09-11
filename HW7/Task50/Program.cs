@@ -28,7 +28,7 @@ void PrintMatrix(int[,] matrix)
         Console.Write("|");
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            Console.Write($"{matrix[i, j], 5}"); //форматирование вывода
+            Console.Write($"{matrix[i, j], 5}"); 
         }
         Console.WriteLine("|");
     } 
@@ -47,7 +47,7 @@ void PositionsInArray(int[,] matrix, int row, int column)
 }
 
 
-int[,] array2d = CreateMatrixRndInt(5, 6, 0, 100);
+int[,] array2d = CreateMatrixRndInt(5, 6, 0, 99);
 PrintMatrix(array2d);
 Console.WriteLine();
 Console.Write("Введите номер строки: ");
