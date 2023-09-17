@@ -17,18 +17,15 @@ if (number1 < 1 || number2 < 1)
 
 int SumNumbers(int number1, int number2)
 {
-    if (number1 == number2) 
-    {
-        return number2;
-    }  
-    else if (number1 < number2)
+    if (number1 < number2)
     {
         return number2 + SumNumbers(number1, number2 - 1);
     }
-    else 
+    else if (number1 > number2) 
     {
         return number2 + SumNumbers(number1, number2 + 1);
     }
+    else console.Write($"{number1}")
 }
 
 Console.Write($"\nM = {number1}; N = {number2} - >");

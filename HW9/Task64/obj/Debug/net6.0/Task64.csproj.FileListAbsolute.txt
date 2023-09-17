@@ -1,0 +1,15 @@
+D:\Git\C++\HW9\Task64\bin\Debug\net6.0\Task64.exe
+D:\Git\C++\HW9\Task64\bin\Debug\net6.0\Task64.deps.json
+D:\Git\C++\HW9\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+D:\Git\C++\HW9\Task64\bin\Debug\net6.0\Task64.dll
+D:\Git\C++\HW9\Task64\bin\Debug\net6.0\Task64.pdb
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\Task64.dll
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\refint\Task64.dll
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\Task64.pdb
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+D:\Git\C++\HW9\Task64\obj\Debug\net6.0\ref\Task64.dll
